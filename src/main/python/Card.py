@@ -1,3 +1,6 @@
+from src.main.python.Rank import Rank
+
+
 class Card:
 
     def __init__(self, rank, suit):

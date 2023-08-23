@@ -1,5 +1,9 @@
 import random
 
+from src.main.python.Deck import Deck
+from src.main.python.Hand import Hand
+
+
 class Game:
 
     TOTAL_DECKS = 6  # Total number of decks in the shoe

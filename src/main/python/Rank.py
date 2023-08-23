@@ -1,5 +1,6 @@
 from enum import Enum
 
+
 class Rank(Enum):
     TWO = 2
     THREE = 3

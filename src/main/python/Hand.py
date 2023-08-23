@@ -1,3 +1,4 @@
+from src.main.python.Rank import Rank
 class Hand:
 
     def __init__(self):
